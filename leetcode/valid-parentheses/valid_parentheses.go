@@ -1,6 +1,6 @@
 package leetcode
 
-// Time complexity - O(n), space complexity: O(n)
+// Time complexity - O(n), space complexity - O(n)
 func isValid(s string) bool {
 	p := make([]rune, 0)
 	for _, c := range s {
