@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func TestTwoSum(t *testing.T) {
+func TestSameTree(t *testing.T) {
 	tests := []struct {
 		name string
 		p    *TreeNode

@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func TestTwoSum(t *testing.T) {
+func TestValidParentheses(t *testing.T) {
 	tests := []struct {
 		name  string
 		input string
@@ -48,7 +48,7 @@ func TestTwoSum(t *testing.T) {
 			want:  false,
 		},
 		{
-			name:  "InvalidWhenBracketsWrong2",
+			name:  "InvalidWhenBracketsWrong3",
 			input: "([)",
 			want:  false,
 		},
