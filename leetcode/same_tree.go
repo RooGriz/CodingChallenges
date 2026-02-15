@@ -1,12 +1,5 @@
 package leetcode
 
-// Definition for a binary tree node.
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
-
 // Time complexity - O(n), space complexity - O(log(n))
 func isSameTree(p *TreeNode, q *TreeNode) bool {
 	if p != nil && q != nil && p.Val == q.Val {
