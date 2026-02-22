@@ -9,3 +9,4 @@
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/same_tree.go) | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/symmetric_tree.go) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/move_zeroes.go) | Easy |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/is_subsequence.go) | Easy |
