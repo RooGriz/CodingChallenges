@@ -10,6 +10,7 @@
 |  0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/symmetric_tree.go) | Easy |
 |  0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/valid_palindrome.go) | Easy |
 |  0136 | [Single Number](https://leetcode.com/problems/single-number) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/single_number.go) | Easy |
+|  0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/reverse_linked_list.go) | Easy |
 |  0268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/missing_number.go) | Easy |
 |  0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/move_zeroes.go) | Easy |
 |  0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/is_subsequence.go) | Easy |
