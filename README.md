@@ -14,6 +14,5 @@
 |  0268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/missing_number.go) | Easy |
 |  0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/move_zeroes.go) | Easy |
 |  0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/is_subsequence.go) | Easy |
-|  0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/is_subsequence.go) | Easy |
 |  0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/find_pivot_index.go) | Easy |
 |  1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/running_sum_of_1d_array.go) | Easy |
