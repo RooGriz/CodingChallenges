@@ -1,5 +1,6 @@
 package leetcode
 
+// Time complexity - O(n), space complexity - O(n)
 func runningSum(nums []int) []int {
 	sums := make([]int, 0, len(nums))
 	var prev int
