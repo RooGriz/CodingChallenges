@@ -18,8 +18,7 @@ func lengthOfLongestSubstring(s string) int {
 			curLen++
 			longestLen = max(longestLen, curLen)
 		} else {
-			for l < r {
-				lc := s[l]
+			for lc := s[l]; l < r; lc = s[l] {
 				l++
 				if lc != rc {
 					delete(unique, lc)
