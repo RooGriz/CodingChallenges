@@ -2,6 +2,7 @@
 |   #   | Title | Solution | Difficulty | Time complexity | Memory complexity |
 |-------|-------|----------| -----------|-----------------|-------------------|
 |  0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/two_sum.go) | Easy | O(n) | O(n) |
+|  0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/longest_substring_without_repeating_characters.go) | Medium | O(n) | O(1) |
 |  0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/valid_parentheses.go) | Easy | O(n) | O(n) |
 |  0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/swap_nodes_in_pairs.go) | Medium | O(n) | O(1) |
 |  0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/remove_duplicates_from_sorted_array.go) | Easy | O(n) | O(1) |
