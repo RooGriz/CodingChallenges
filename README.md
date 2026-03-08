@@ -10,6 +10,7 @@
 |  0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/validate_binary_search_tree.go) | Medium | O(n) | O(n) |
 |  0100 | [Same Tree](https://leetcode.com/problems/same-tree) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/same_tree.go) | Easy | O(n) | O(log(n)) |
 |  0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/symmetric_tree.go) | Easy | O(n) | O(n) |
+|  0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/maximum_depth_of_binary_tree.go) | Easy | O(n) | O(n) |
 |  0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/valid_palindrome.go) | Easy | O(n) | O(1) |
 |  0136 | [Single Number](https://leetcode.com/problems/single-number) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/single_number.go) | Easy | O(n) | O(1) |
 |  0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/reverse_linked_list.go) | Easy | O(n) | O(1) |
