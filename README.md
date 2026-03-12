@@ -9,6 +9,7 @@
 |  0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/remove_duplicates_from_sorted_array.go) | Easy | O(n) | O(1) |
 |  0027 | [Remove Element](https://leetcode.com/problems/remove-element) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/remove_element.go) | Easy | O(n) | O(1) |
 |  0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/remove_duplicates_from_sorted_array_ii.go) | Medium | O(n) | O(1) |
+|  0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/merge_sorted_array.go) | Easy | O(m+n) | O(1) |
 |  0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/validate_binary_search_tree.go) | Medium | O(n) | O(n) |
 |  0100 | [Same Tree](https://leetcode.com/problems/same-tree) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/same_tree.go) | Easy | O(n) | O(log(n)) |
 |  0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/symmetric_tree.go) | Easy | O(n) | O(n) |
