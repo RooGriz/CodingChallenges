@@ -18,6 +18,7 @@
 |  0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/valid_palindrome.go) | Easy | O(n) | O(1) |
 |  0136 | [Single Number](https://leetcode.com/problems/single-number) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/single_number.go) | Easy | O(n) | O(1) |
 |  0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/binary_tree_preorder_traversal.go) | Easy | O(n) | O(n) |
+|  0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/binary_tree_postorder_traversal.go) | Easy | O(n) | O(n) |
 |  0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/reverse_linked_list.go) | Easy | O(n) | O(1) |
 |  0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/minimum_size_subarray_sum.go) | Medium | O(n) | O(1) |
 |  0268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Golang](https://github.com/RooGriz/CodingChallenges/blob/main/leetcode/missing_number.go) | Easy | O(n) | O(1) |
