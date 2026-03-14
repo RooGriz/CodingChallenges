@@ -80,7 +80,7 @@ func TestInorderTraversal(t *testing.T) {
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
 			got := inorderTraversal(tt.root)
-			assert.ElementsMatchf(t, tt.want, got, "Inorder traversal want %v, got %v", tt.want, got)
+			assert.Equalf(t, tt.want, got, "Inorder traversal want %v, got %v", tt.want, got)
 		})
 	}
 }

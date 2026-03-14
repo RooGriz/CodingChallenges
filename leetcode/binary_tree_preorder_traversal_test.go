@@ -80,7 +80,7 @@ func TestPreorderTraversal(t *testing.T) {
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
 			got := preorderTraversal(tt.root)
-			assert.ElementsMatchf(t, tt.want, got, "Preorder traversal want %v, got %v", tt.want, got)
+			assert.Equalf(t, tt.want, got, "Preorder traversal want %v, got %v", tt.want, got)
 		})
 	}
 }
